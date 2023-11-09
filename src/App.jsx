@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>A Nicolas arboleda le gusta la Berenjena</h1>
+        <h1>Brandon Garcia Marin - Dahiana Largo - Julian Garcia</h1>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
